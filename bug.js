@@ -1,0 +1,1 @@
+This bug occurs when using the Expo's `Image` component with a URI that points to a large image.  The image may fail to load or render properly, particularly on lower-end devices or slower networks.  The error is not always explicit, often manifesting as a blank space where the image should be, or a very slow loading time.
